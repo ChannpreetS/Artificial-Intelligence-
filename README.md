@@ -1,2 +1,2 @@
 # Artificial-Intelligence-
-Weather Predication, with tkinter for the Interface. All done using Python.
+Weather Predication, with tkinter for the Interface. Done using Python.
